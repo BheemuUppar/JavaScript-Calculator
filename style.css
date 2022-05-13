@@ -1,0 +1,40 @@
+.container {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    height: 500px;
+}
+
+.calculator {
+    height: 430px;
+    background-color: grey;
+    padding: 0 30px;
+    border: 3px solid black;
+    border-radius: 80px;
+}
+
+h1 {
+    font-family: 'Macondo', cursive;
+}
+
+table {
+    margin: auto;
+}
+
+input {
+    height: 35px;
+    font-size: 25px;
+    border: 2px solid black;
+    border-radius: 17px;
+}
+
+button {
+    font-size: 30px;
+    width: 77px;
+    height: 51px;
+    background-color: white;
+    border-radius: 31px;
+    color: black;
+}
